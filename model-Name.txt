@@ -1,7 +1,4 @@
-# SynthEmbed
-A High-Fidelity Multimodal Document Query Engine
-
-# Models
+# Suggestion
 
 1. Audio/Text segmentation
 

@@ -1,0 +1,7 @@
+python-dotenv
+pyaudio
+transformers
+datasets
+torch
+soundfile
+datasets

@@ -1,0 +1,13 @@
+langchain 
+pypdf
+pinecone-client
+openai
+tiktoken
+pyPDF2
+streamlit
+python-dotenv
+chromadb 
+sentence-transformers 
+spacy
+transformers
+transformers[sentencepiece]
