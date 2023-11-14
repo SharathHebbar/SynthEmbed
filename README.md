@@ -7,6 +7,7 @@ A High-Fidelity Multimodal Document Query Engine
 
 For Text---  https://github.com/notAI-tech/deepsegment
 https://medium.com/artiwise-nlp/text-segmentation-and-its-applications-to-aspect-based-sentiment-analysis-fb115f9ab4e9
+
 For Audio---  
 
 2. Audio/Text Classification
